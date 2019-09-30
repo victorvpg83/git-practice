@@ -1,0 +1,3 @@
+Nombre: Víctor
+Edad: 36
+Color favorito: Azul
